@@ -24,3 +24,4 @@ src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></ifr
 <div align="center">
 <h1 id="友情链接">友情链接</h1>
 <p><a href="https://www.fuibafuyu.cn" target="_blank" rel="noopener noreferrer" title="うち、フユや">冬優ちゃんの小窝</a></p>
+<div align="center">
