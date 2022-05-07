@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 星空Official的小窝
 
-You can use the [editor on GitHub](https://github.com/ASSDERFS/xiguastudiodownload/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎你来到我的小窝
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ASSDERFS/xiguastudiodownload/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h3 id="jinrishici-sentence"></h3>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8" type="eb042e87ceac2561c2858874-text/javascript"></script>
+<div align="center">
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="340" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=0&amp;height=66"></iframe>
+</div>
+<h1 id="友情链接">推荐的链接</h1>
+<p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
+<p><a href="https://easyig.site" target="_blank" rel="noopener noreferrer" title="界面简洁美观，功能新颖的系统备份还原工具">EasyIG</a></p>
+<p><a href="https://firpe.cn" target="_blank" rel="noopener noreferrer" title="也许是最适合年轻人使用的第三方WinPE~">FirPE</a></p>
+<p><a href="https://www.cqzhx.top" target="_blank" rel="noopener noreferrer" title="优质资源分享">某全小站</a></p>
+<p><a href="https://yp.cqzhx.top" target="_blank" rel="noopener noreferrer" title="屑站长运营的个人云盘">千雪云盘</p>
+<div align="center">
