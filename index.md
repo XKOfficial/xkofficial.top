@@ -1,7 +1,8 @@
 ## 星空Official的小窝
 
-欢迎你来到我的小窝
+欢迎你来到我的小窝,听首歌，看看吧。
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<link rel="icon" href="logo.ico">
 <div id="poem_sentence"></div>
 <div id="poem_info"></div>
 <script type="text/javascript">
