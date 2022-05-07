@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+<footer class="site-footer">
+<h1 id="友情链接">友情链接</h1>
+<p><a href="https://www.fuibafuyu.cn" target="_blank" rel="noopener noreferrer" title="うち、フユや">冬優ちゃんの小窝</a></p>
+<p><a href="https://www.cqzhx.top" target="_blank" rel="noopener noreferrer" title="站长就是个屑！">某全小站</a></p>
+<p><a href="https://yp.cqzhx.top" target="_blank" rel="noopener noreferrer" title="屑站长运营的个人云盘">千雪云盘</a></p>
+<div align="center">
+      </footer>
+    </main>
+  </body>
+</html>
