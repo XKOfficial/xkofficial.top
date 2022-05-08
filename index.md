@@ -1,6 +1,9 @@
 ## 星空Official的小窝
 
 欢迎你来到我的小窝,听首歌，看看吧。
+<h2 id="我是谁">我是谁？</h2>
+<p>一位六年级学生，日常摆烂，会点Python,html也差不多。<p>
+<p>Bilibili:萧茗Official（被抢注惹） 其他平台：星空Official<p>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 <link rel="icon" href="logo.ico">
 <div id="poem_sentence"></div>
