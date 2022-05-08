@@ -16,7 +16,7 @@
 <h2 id="我是谁">我是谁？</h2>
 <p>一位六年级学生，日常摆烂，会点Python,html也差不多。<p>
 <p>Bilibili:萧茗Official（被抢注惹） 其他平台：星空Official<p>
-<h1 id="Mucic">听首歌</h1>
+<h2 id="Mucic">听首歌</h2>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="340" height="86" 
 src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></iframe>
 <h2 id="我的世界">Minecraft专区</h2>
