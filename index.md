@@ -17,6 +17,7 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="340" height="86" 
 src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></iframe>
 <h1 id="友情链接">推荐区~</h1>
+<p><a href="https://lftk-my.sharepoint.com/:f:/g/personal/xigua_lftk_onmicrosoft_com/Ek5vf3UHz2JIlHtbpO2_pn8BWfE4xBa_oyaG9c3AXMIBjQ?e=Eq30QT" target="_blank" rel="noopener noreferrer" title="本链接资源由某全小站站长提供">神秘链接</a></p>
 <p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
 <p><a href="https://firpe.cn" target="_blank" rel="noopener noreferrer" title="也许是最适合年轻人使用的第三方WinPE~">FirPE</a></p>
 <div align="center">
