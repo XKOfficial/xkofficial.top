@@ -19,8 +19,8 @@ src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></ifr
 <h1 id="我的世界">Minecraft专区</h1>
 <h2 id="下载我的世界">游戏下载</h2>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
-<p><a href="https://yp.cqzhx.top/api/v3/file/source/49/Plain%20Craft%20Launcher%202.exe?sign=ifZSQv6-qt-aGVpef9BMq-MNOA6x6RbDYKAXSLqiVxg%3D%3A0" title="直链下载">Plain Craft Launcher 2</a></p>
-<p><a href="https://yp.cqzhx.top/api/v3/file/source/50/HMCL-3.5.3.exe?sign=K-jRbcdNGiokzTdK6zCWJkBvsMgHURri602yXJqjCvw%3D%3A0" title="直链下载">Hello Minecraft Launcher</a></p>
+<p><a href="https://lftk-my.sharepoint.com/:f:/g/personal/wuchengbin_lftk_onmicrosoft_com/EuwfCvPGAbhEm1l1dNVepyIBQbZFgFcBwuucRZIiG9X1oA?e=8r3AcB" title="OneDrive">Minecraft For Windows</a></p>
+<p><a href="https://lftk-my.sharepoint.com/:f:/g/personal/wuchengbin_lftk_onmicrosoft_com/EoWIdFQuHeFLiUUC3eoLDFEBimtf4i5GEVXGpXsp_kU2Iw?e=YlMZZk" title="OneDrive">Minecraft For Android</a></p>
 <h2 id="服务器">我的服务器</h2>
 <p>暂时还没有哦，抱歉~<p>
 <h1 id="友情链接">推荐区~</h1>
