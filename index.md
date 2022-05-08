@@ -20,9 +20,9 @@ src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></ifr
 <h2 id="下载我的世界">游戏下载</h2>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
 <p><a href="https://yp.cqzhx.top/api/v3/file/source/49/Plain%20Craft%20Launcher%202.exe?sign=ifZSQv6-qt-aGVpef9BMq-MNOA6x6RbDYKAXSLqiVxg%3D%3A0" title="直链下载">Plain Craft Launcher 2</a></p>
-<p><a href="https://lftk-my.sharepoint.com/:u:/g/personal/wuchengbin_lftk_onmicrosoft_com/EcwSqxVQkWtCmbBeeeVwxXMBserzAvS3joQqf5zQbapViQ?e=ivNfdI" title="阿里云盘">PCL2备用下载链接</a></p>
+<p><a href="https://lftk-my.sharepoint.com/:u:/g/personal/wuchengbin_lftk_onmicrosoft_com/EcwSqxVQkWtCmbBeeeVwxXMBserzAvS3joQqf5zQbapViQ?e=ivNfdI" title="OneDrive">备用下载链接</a></p>
 <p><a href="https://yp.cqzhx.top/api/v3/file/source/50/HMCL-3.5.3.exe?sign=K-jRbcdNGiokzTdK6zCWJkBvsMgHURri602yXJqjCvw%3D%3A0" title="直链下载">Hello Minecraft Launcher</a></p>
-<p><a href="https://lftk-my.sharepoint.com/:u:/g/personal/wuchengbin_lftk_onmicrosoft_com/EVW3_N-cAgVChN1srZrDf44B-P9fJhV2Ozdx4O1H7upvuQ?e=6hEjvH" title="OneDrive">HMCL备用下载链接</a></p>
+<p><a href="https://lftk-my.sharepoint.com/:u:/g/personal/wuchengbin_lftk_onmicrosoft_com/EVW3_N-cAgVChN1srZrDf44B-P9fJhV2Ozdx4O1H7upvuQ?e=6hEjvH" title="OneDrive">备用下载链接</a></p>
 <h2 id="服务器">我的服务器</h2>
 <p>暂时还没有哦，抱歉~<p>
 <h1 id="友情链接">推荐区~</h1>
