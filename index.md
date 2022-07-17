@@ -22,8 +22,8 @@ src="//music.163.com/outchain/player?type=2&id=492390949&auto=1&height=66"></ifr
 <h2 id="我的世界">Minecraft专区</h2>
 <h3 id="下载我的世界">游戏下载</h3>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
-<p><a href="https://lftk-my.sharepoint.com/:f:/g/personal/wuchengbin_lftk_onmicrosoft_com/EuwfCvPGAbhEm1l1dNVepyIBQbZFgFcBwuucRZIiG9X1oA?e=8r3AcB" title="OneDrive">Minecraft For Windows</a></p>
-<p><a href="https://lftk-my.sharepoint.com/:f:/g/personal/wuchengbin_lftk_onmicrosoft_com/EoWIdFQuHeFLiUUC3eoLDFEBimtf4i5GEVXGpXsp_kU2Iw?e=YlMZZk" title="OneDrive">Minecraft For Android</a></p>
+<p><a href="https://www.123pan.com/s/fb7DVv-mhWRh" title="123云盘">Minecraft For Windows</a></p>
+<p><a href="https://www.123pan.com/s/fb7DVv-4hWRh" title="123云盘">Minecraft For Android</a></p>
 <h3 id="服务器">我的服务器</h3>
 <p>暂时还没有哦，抱歉~<p>
 <h2 id="友情链接">推荐区~</h2>
