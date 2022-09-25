@@ -27,7 +27,7 @@ src="//music.163.com/outchain/player?type=2&id=1456677611&auto=1&height=66"></if
 <h3 id="服务器">我的服务器</h3>
 <p>暂时还没有哦，抱歉~<p>
 <h2 id="友情链接">推荐区~</h2>
-<p><a href="https://yj1q3-my.sharepoint.com/:u:/g/personal/xkofficial2333_yj1q3_onmicrosoft_com/ESccvrzgiGhFnnzhID7C9O4Bpomrc6WaPZzBZsBDEhe0mA?e=16hZG4" target="_blank" rel="noopener noreferrer" title="本链接资源由神秘人提供">神秘链接</a></p>
+<p><a href="https://yj1q3-my.sharepoint.com/:u:/g/personal/xkofficial2333_yj1q3_onmicrosoft_com/ESccvrzgiGhFnnzhID7C9O4BzBlMOljSN3TMAJcsNWCdOw?e=rktMcB" target="_blank" rel="noopener noreferrer" title="密码自己猜（doge）">神秘链接</a></p>
 <p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
 <p><a href="https://firpe.cn" target="_blank" rel="noopener noreferrer" title="也许是最适合年轻人使用的第三方WinPE~">FirPE</a></p>
 <div align="center">
