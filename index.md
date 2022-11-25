@@ -14,7 +14,7 @@
   });
 </script>
 <h2 id="我是谁">我是谁？</h2>
-<p>一位六年级学生，日常摆烂，会点Python,html也差不多。<p>
+<p>一位初一学生，日常摆烂，会点Python,html也差不多。<p>
 <p>Bilibili:萧茗Official（被抢注惹） 大部分平台：星空Official<p>
 <h2 id="Mucic">听首歌</h2>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="340" height="86" 
