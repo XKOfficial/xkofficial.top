@@ -26,7 +26,7 @@ src="//music.163.com/outchain/player?type=2&id=495562302&auto=1&height=66"></ifr
 <p><a href="https://mcapks.com/" title="MCAPKS">Minecraft For Android</a></p>
 <h3 id="服务器">我的服务器</h3>
 <p>暂时还没有哦，抱歉~<p>
-<h2 id="友情链接">推荐区~</h2>
+<h2 id="友情链接~">推荐区~</h2>
 <p><a href="https://www.quark.cn" target="_blank" rel="noopener noreferrer" title="好用遂推荐，顺便证明我还活着...">Quark PC</a></p>
 <p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
 <p><a href="https://firpe.cn" target="_blank" rel="noopener noreferrer" title="也许是最适合年轻人使用的第三方WinPE~">FirPE</a></p>
