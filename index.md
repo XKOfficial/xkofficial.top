@@ -21,7 +21,6 @@
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=1450488291&bvid=BV1Xv421C7CZ&cid=1434171845&p=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no">
 </iframe>
 </div>
-src="//music.163.com/outchain/player?type=2&id=495562302&auto=1&height=66"></iframe>
 <h2 id="我的世界">Minecraft专区</h2>
 <h3 id="下载我的世界">游戏下载</h3>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
