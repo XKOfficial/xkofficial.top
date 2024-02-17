@@ -29,4 +29,3 @@
 <p><a href="https://www.quark.cn" target="_blank" rel="noopener noreferrer" title="好用遂推荐，顺便证明我还活着...">Quark PC</a></p>
 <p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
 <p><a href="https://firpe.cn" target="_blank" rel="noopener noreferrer" title="也许是最适合年轻人使用的第三方WinPE~">FirPE</a></p>
-<div align="center">
