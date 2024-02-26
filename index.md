@@ -17,7 +17,7 @@
 <p>一位初二学生，日常摆烂，会点Python,html也差不多。<p>
 <p>Bilibili:萧茗Official（被抢注惹） 大部分平台：星空Official<p>
 <h2 id="Mucic">听首歌</h2>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=2124751180&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2127834654&auto=1&height=66"></iframe>
 <h2 id="我的世界">Minecraft专区</h2>
 <h3 id="下载我的世界">游戏下载</h3>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
